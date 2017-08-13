@@ -719,6 +719,7 @@ Pursuant to the great namespace flattening:
 * d3.scale.sqrt ↦ [d3.scaleSqrt](https://github.com/d3/d3-scale/blob/master/README.md#scaleSqrt)
 * d3.scale.pow ↦ [d3.scalePow](https://github.com/d3/d3-scale/blob/master/README.md#scalePow)
 * d3.scale.log ↦ [d3.scaleLog](https://github.com/d3/d3-scale/blob/master/README.md#scaleLog)
+* d3.scale.identity ↦ [d3.scaleIdentity](https://github.com/d3/d3-scale/blob/master/README.md#scaleIdentity)
 * d3.scale.quantize ↦ [d3.scaleQuantize](https://github.com/d3/d3-scale/blob/master/README.md#scaleQuantize)
 * d3.scale.threshold ↦ [d3.scaleThreshold](https://github.com/d3/d3-scale/blob/master/README.md#scaleThreshold)
 * d3.scale.quantile ↦ [d3.scaleQuantile](https://github.com/d3/d3-scale/blob/master/README.md#scaleQuantile)
